@@ -1,4 +1,5 @@
 Welcome to Synergytop
+<<<<<<< HEAD
 
 
 
@@ -6,3 +7,18 @@ Kapil Sharma
 
 
 kapil sharma -  kapil sharma@synergytop.com
+
+Deepak Kumar - deepak.kumar@synergytop.com - 7400694212
+
+Ayush Jain
+This is Vijay Pandey.
+
+This is Rahul jain
+
+This is vijay branch.
+vijay
+
+
+This is ayush test message
+
+Vikram Singh
