@@ -1,11 +1,25 @@
 Welcome to Synergytop
+<<<<<<< HEAD
+=======
+Deepak Kumar - deepak.kumar@synergytop.com - 7400694212
+
+>>>>>>> d82cf36aa5be12c6e6359bbbba9d320016698e3c
 Ayush Jain
 This is Vijay Pandey.
 
 This is Rahul jain
 
 This is vijay branch.
+<<<<<<< HEAD
 This is Vijay Pandey.
 This is Rahul jain
 Bhaskar Dwivedi
 Bhaskar Dwivedi - bhaskar.dwivedi@synergytop.com
+=======
+vijay
+
+
+This is ayush test message
+
+Vikram Singh
+>>>>>>> d82cf36aa5be12c6e6359bbbba9d320016698e3c
