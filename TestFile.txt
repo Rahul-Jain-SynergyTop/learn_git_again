@@ -1,7 +1,7 @@
 Welcome to Synergytop
 
 
-Meghna Singhal
+Meghna Singhal - meghna.singhal@synergytop.com
 
 
 Deepak Kumar - deepak.kumar@synergytop.com - 7400694212
@@ -9,7 +9,6 @@ Deepak Kumar - deepak.kumar@synergytop.com - 7400694212
 
 Deepak Kumar - deepak.kumar@synergytop.com - 7400694212
 
->>>>>>> 84c4e2f2c418e2be8e7436d8948deb7978539ec1
 Ayush Jain
 This is Vijay Pandey.
 
