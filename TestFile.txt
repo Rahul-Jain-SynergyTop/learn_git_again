@@ -1,27 +1,48 @@
 Welcome to Synergytop
 <<<<<<< HEAD
-=======
+
+
+
+
+Kapil Sharma
+
+
+kapil sharma -  kapil sharma@synergytop.com
+
+
 Deepak Kumar - deepak.kumar@synergytop.com - 7400694212
 
->>>>>>> d82cf36aa5be12c6e6359bbbba9d320016698e3c
+
+Deepak Kumar - deepak.kumar@synergytop.com - 7400694212
+
+
+
+Meghna Singhal - meghna.singhal@synergytop.com
+
+
+
+
+
 Ayush Jain
+Ayush Jain - ayush.jain@synergytop.com
 This is Vijay Pandey.
-
 This is Rahul jain
-
 This is vijay branch.
-<<<<<<< HEAD
+
 This is Vijay Pandey.
 This is Rahul jain
 Bhaskar Dwivedi
 Bhaskar Dwivedi - bhaskar.dwivedi@synergytop.com
-=======
 vijay
 
 
 This is ayush test message
 
 Vikram Singh
+<<<<<<< HEAD
 >>>>>>> d82cf36aa5be12c6e6359bbbba9d320016698e3c
 Bhaskar Dwivedi - bhaskar.dwivedi@synergytop.com-7974127627
 Bhaskar Dwivedi - bhaskar.dwivedi@synergytop.com-7974127627-24-04-1995
+=======
+Amit Yadav <amit.yadav@synergytop.com>
+>>>>>>> 48f5e393c12126e4d4db33f579a7b40d7a962003
