@@ -17,7 +17,7 @@ This is Vijay Pandey.
 This is Rahul jain
 
 This is vijay branch.
-<<<<<<< HEAD
+
 This is Vijay Pandey.
 This is Rahul jain
 Bhaskar Dwivedi
