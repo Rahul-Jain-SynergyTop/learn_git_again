@@ -1,5 +1,5 @@
 Welcome to Synergytop
-<<<<<<< HEAD
+
 
 
 
@@ -7,6 +7,7 @@ Kapil Sharma
 
 
 kapil sharma -  kapil sharma@synergytop.com
+
 
 Deepak Kumar - deepak.kumar@synergytop.com - 7400694212
 
@@ -16,6 +17,11 @@ This is Vijay Pandey.
 This is Rahul jain
 
 This is vijay branch.
+<<<<<<< HEAD
+This is Vijay Pandey.
+This is Rahul jain
+Bhaskar Dwivedi
+Bhaskar Dwivedi - bhaskar.dwivedi@synergytop.com
 vijay
 
 
