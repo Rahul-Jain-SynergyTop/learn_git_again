@@ -22,7 +22,6 @@ Meghna Singhal - meghna.singhal@synergytop.com
 
 
 
-
 Ayush Jain
 Ayush Jain - ayush.jain@synergytop.com
 This is Vijay Pandey.
@@ -37,7 +36,8 @@ vijay
 
 
 This is ayush test message
-
+Shakti Singh
+Shakti Singh - ShaktiSingh@synergytop.com
 Vikram Singh
 <<<<<<< HEAD
 >>>>>>> d82cf36aa5be12c6e6359bbbba9d320016698e3c
