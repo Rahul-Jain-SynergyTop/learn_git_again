@@ -1,8 +1,11 @@
 Welcome to Synergytop
-<<<<<<< HEAD
+
 Meghna Singhal
-=======
-<<<<<<< HEAD
+
+
+Deepak Kumar - deepak.kumar@synergytop.com - 7400694212
+
+
 Ayush Jain
 This is Vijay Pandey.
 
@@ -10,11 +13,8 @@ This is Rahul jain
 
 This is vijay branch.
 vijay
-=======
 
 
 This is ayush test message
 
 Vikram Singh
->>>>>>> fc0dc541866997df2b45607aab9db1673b6d20de
->>>>>>> 1aaeac89e5ef583a76bd4363920bd5baa4ed965f
