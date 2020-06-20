@@ -1,12 +1,2 @@
 Welcome to Synergytop
-<<<<<<< HEAD
 Meghna Singhal
-=======
-Ayush Jain
-This is Vijay Pandey.
-
-This is Rahul jain
-
-This is vijay branch.
-vijay
->>>>>>> d155525200720a4b5f83396729e4b310a9799785
