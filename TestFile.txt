@@ -4,4 +4,4 @@ Welcome to Synergytop
 This is ayush test message
 
 Vikram Singh
-Amit Yadav
+Amit Yadav <amit.yadav@synergytop.com>
